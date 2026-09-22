@@ -1,5 +1,5 @@
 
-Emissary supports online data portability, an emerging standard on the Fediverse.  This is a quick **guide for users** to understand the account migration process.  If you're looking for a more technical description, please visit the [Account Migration for Developers](/developers-migration) page.
+With Emissary, you can move your entire account to a new server, using the emerging "Data Portability" standard on the Fediverse.  This is a quick **guide for users** to understand the account migration process.  If you're looking for a more technical description, please visit the [Account Migration for Developers](/developers-migration) page.
 
 ## Migration Requirements
 
