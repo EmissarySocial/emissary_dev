@@ -3,7 +3,21 @@ Emissary is designed to be as simple as possible, with very few external depende
 
 The web app uses two new javascript libraries [Htmx](https://htmx.org) and [Hyperscript](https://hyperscript.org) for a fast and fluid user experience.  Understanding these tools is helpful -- but not essential -- because they're far simpler than other front-end Javascript and very easy to learn.
 
-Everything else is baked into a single executable that compiles and runs on everything from a single VPS to a cloud-based Kubernetes cluster and beyond.  Many of Emissary's core components have been broken out into their own open source libraries -- like [Rosetta](https://github.com/benpate/rosetta) data manipulation, and [Hannibal](https://github.com/benpate/hannibal) ActivityPub libraries -- so if you can take advantage of Emissary even if you're building something different.
+Everything else is baked into a single executable that compiles and runs on everything from a single VPS or Raspberry Pi to a cloud-based Kubernetes cluster and beyond.  Many of Emissary's core components have been broken out into their own open source libraries, so you can take advantage of Emissary even if you're building something different.
+
+## Hannibal
+![](attachments/Hannibal.jpg)[Hannibal](https://github.com/benpate/hannibal) is the primary ActivityPub library for Emissary.
+
+
+## Sherlock
+![](attachments/The_Adventure_of_Silver_Blaze.jpg)
+
+## Rosetta
+![](attachments/City-of-Rosetta.webp)[Rosetta](https://github.com/benpate/rosetta) is a data manipulation and transformation library.  It powers Emissary's flexible data handling up and down the tech stack.
+
+## Turbine
+<img src="attachments/Turbine.webp" style="width:100%">
+[Turbine](https://github.com/benpate/turbine) is a fast, reliable message queue built on MongoDB.  There are other queuing systems, but building our own allows us to minimize external dependencies and simplify the installation.
 
 ## Documentation
 
