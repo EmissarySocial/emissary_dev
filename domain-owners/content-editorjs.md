@@ -1,0 +1,1 @@
+Emissary includes a "what you see is what you get" (WYSIWYG) editor for creating sophisticated web pages just by pointing and clicking.  This is similar to "block based editors" used by many other content management systems.
