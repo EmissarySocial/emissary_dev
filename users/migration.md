@@ -3,7 +3,7 @@ With Emissary, you can move your entire account to a new server, using the emerg
 
 ## Migration Requirements
 
-Account Migration is new, and most Fediverse servers don't support this feature yet.  As of December 2025, only Emissary servers support this feature.  You're able to move *from* an Emissary server *to* an Emissary server with just a few clicks.  We'll be updating this article over time as other of servers add this important feature.
+Account Migration is new, and most Fediverse servers don't support this feature yet.  As of December 2025, only Emissary servers support this feature.  You're able to move *from* an Emissary server *to* an Emissary server with just a few clicks.  We'll be updating this article over time as other servers add this important feature.
 
 ## How It Works
 
