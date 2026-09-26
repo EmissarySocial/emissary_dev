@@ -1,0 +1,3 @@
+A redirect is a placeholder in your website navigation that forwards your visitor to any other page on the Internet.  For instance, this lets you add a link to an external profile page right in the navigation bar of this website.
+
+To create a redirect, enter the `Target URL` of the other web page you want to redirect to, along with the other common metadata, such as the title that will appear on this website.
